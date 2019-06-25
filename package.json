@@ -1,6 +1,6 @@
 {
   "version": "0.0.9",
-  "name": "cordova-plugin-audio-recorder-api",
+  "name": "cordova-plugin-wininsoft-audio-recorder-api",
   "cordova_name": "AudioRecorderAPI",
   "description": "This plugin is a Cordova audio recorder plugin which works as API.",
   "license": "MIT",
