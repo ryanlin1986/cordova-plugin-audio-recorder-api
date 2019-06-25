@@ -125,6 +125,9 @@
   NSLog(@"stopRecording");
   [recorder stop];
   NSLog(@"stopped");
+
+  [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryPlayback error:nil];
+  [[AVAudioSession sharedInstance] setActive:NO error:nil];
 }
 
 - (void)playback:(CDVInvokedUrlCommand*)command {

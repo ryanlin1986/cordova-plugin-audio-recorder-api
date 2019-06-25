@@ -1,5 +1,5 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.9",
   "name": "cordova-plugin-audio-recorder-api",
   "cordova_name": "AudioRecorderAPI",
   "description": "This plugin is a Cordova audio recorder plugin which works as API.",
@@ -14,7 +14,7 @@
     }
   ],
   "cordova": {
-    "id": "cordova-plugin-audio-recorder-api",
+    "id": "cordova-plugin-wininsoft-audio-recorder-api",
     "platforms": [
       "android"
     ]
